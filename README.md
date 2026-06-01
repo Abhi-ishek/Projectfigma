@@ -14,3 +14,10 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+<img width="1391" height="806" alt="image" src="https://github.com/user-attachments/assets/23a14558-0d13-4ba7-8057-56303beab9f1" />
+
+those data that are require to change  i use props their and divide all the component so that its easy to change.
+
+The UI was implemented based on the provided Figma design while maintaining component reusability and responsive behavior.
+
